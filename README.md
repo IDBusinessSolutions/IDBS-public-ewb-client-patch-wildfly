@@ -1,6 +1,5 @@
-# ewb-client-patch-wildfly
+# IDBS-public-ewb-client-patch-wildfly
 
-## Introduction
+The IDBS modified source code of Wildfly 8.2.
 
-Modified version of the wildfly client
-
+This is being made available to fullfil the xxxxxxx license requirements
